@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @varun189
-- 👀 I’m interested in coding and software world 
+- 👀 tech 
 - 🌱 I’m currently learning python and R
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
